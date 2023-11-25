@@ -3,5 +3,4 @@
 </p>
 
 <h1 align="center">Hi, I'm <h1>Student MAI</h1>!</h1>
-<h1 align="center">Welcome to my GitHub profile ~ OwO</h1>
-
+<h1 align="center">Welcome to my GitHub profile~~~UwU</h1>
