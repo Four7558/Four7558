@@ -4,3 +4,9 @@
 
 <h1 align="center">Hi, I'm <h1>Student MAI</h1>!</h1>
 <h1 align="center">Welcome to my GitHub profile~~~UwU</h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/Q5WpJj3MfmsmVEQamd/200.webp" alt="Banner">
+</p>
+
+<h1 align="center">Let it snow, let it snow, let it snow.... ^^<h1></h1>!</h1>
